@@ -40,4 +40,6 @@ function extractCurrencyValue(val) {
   return +val.slice(1);
 }
 
-alert(extractCurrencyValue('$120'));
+// alert(extractCurrencyValue('$120'));
+
+
