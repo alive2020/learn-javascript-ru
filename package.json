@@ -1,0 +1,19 @@
+{
+  "name": "learn-javascript-ru",
+  "version": "1.0.0",
+  "description": "#### learn.javascript.ru is the Best book on Javascript in russian #### Goal:   - finish all 3 sections in 3 months    - finish 1 section by the end of Dec 2021  - solve all tasks in the book",
+  "main": "array.js",
+  "scripts": {
+    "start": "node /Users/ice/coding/learn-javascript-ru/Part1/javascriptBasics/ "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alive2020/learn-javascript-ru.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alive2020/learn-javascript-ru/issues"
+  },
+  "homepage": "https://github.com/alive2020/learn-javascript-ru#readme"
+}
